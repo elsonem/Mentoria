@@ -19,19 +19,19 @@ Neste repositórios estão todos os artefatos das nossas mentorias.
   3. https://www.magazinevoce.com.br/magazineelidianymartins/livro-devops-para-leigos/p/he83d7gdf2/li/lgta/
   4. https://www.magazinevoce.com.br/magazineelidianymartins/livro-tecnicas-de-invasao/p/gkk59dchej/li/ldeh/
 
-# Cursos
-1. GIT:
-   1.1 https://www.udemy.com/course/git-e-github-para-iniciantes/
-   1.2 https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/
-2 . Linux:
-   2.1 https://www.udemy.com/course/linux-ubuntu/
-   2.2 https://www.udemy.com/course/primeiros-passos-no-linux/
-   2.2 https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/
-3. Docker
-   3.1 https://www.udemy.com/course/docker-zero-avancado/
-4. Segurança
-   4.1 https://app.cybrary.it/browse/course/fundamentals-of-cybersecurity-architecture
-   4.2 https://app.cybrary.it/browse/course/incident-response-lifecycle
-   4.3 https://app.cybrary.it/browse/course/identifying-web-attacks-through-logs
-   4.4 https://app.cybrary.it/browse/course/cloudtamer-io-cloud-governance-principles
-   4.5 https://app.cybrary.it/browse/course/fundamental-windows-security-overview
+# Cursos: GIT
+  - https://www.udemy.com/course/git-e-github-para-iniciantes/
+  - https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/
+# Cursos: Linux
+   - https://www.udemy.com/course/linux-ubuntu/
+   - https://www.udemy.com/course/primeiros-passos-no-linux/
+   - https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/
+# Cursos: Docker
+   - https://www.udemy.com/course/docker-zero-avancado/
+# Cursos: Segurança
+   - https://www.udemy.com/course/docker-zero-avancado/
+   - https://app.cybrary.it/browse/course/fundamentals-of-cybersecurity-architecture
+   - https://app.cybrary.it/browse/course/incident-response-lifecycle
+   - https://app.cybrary.it/browse/course/identifying-web-attacks-through-logs
+   - https://app.cybrary.it/browse/course/cloudtamer-io-cloud-governance-principles
+   - https://app.cybrary.it/browse/course/fundamental-windows-security-overview
