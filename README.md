@@ -1,5 +1,5 @@
 # Mentoria
-Neste repositórios estão todos os artefatos das nossas mentorias.
+Neste repositórios estarão todos os artefatos e indicações das nossas mentorias.
 
 # Bons perfis para seguir
  - https://youtube.com/@ByteByteGo?si=APglXOmgvCSeMZrB
